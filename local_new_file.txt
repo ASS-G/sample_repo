@@ -1,2 +1,1 @@
-This is a new file added to the latest repo.
-
+This is a new file added to the latest repo. This is a change.
